@@ -1,9 +1,4 @@
-¡Perfecto, Alex! 🙌
-Voy a armarte el **recetario completo desde la receta 1 hasta la 35 en un solo bloque `.md`**. Incluye **todas las recetas**: Entradas → Platos Fuertes → Postres → Platos Icónicos de Hannibal. Así tendrás un único archivo `recetario.md` listo para copiar y pegar.
 
----
-
-```markdown
 # 📖 Recetario Completo – Entradas, Platos Fuertes, Postres y Platos Icónicos de Hannibal
 
 ✨ Un recetario con recetas fáciles, elegantes y con ingredientes disponibles tanto en República Dominicana como en Estados Unidos. Incluye platos inspirados en la saga de *Hannibal Lecter* (adaptados a ingredientes tradicionales).
@@ -606,6 +601,3 @@ Voy a armarte el **recetario completo desde la receta 1 hasta la 35 en un solo b
 3. Sirve carne con salsa.  
 
 ---
-
-## 35. Sanguin
-```
